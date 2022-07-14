@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "starmax",
-    "slug": "starmax",
+    "name": "Max",
+    "slug": "Max",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon_logo.webp",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/max.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#131340"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
